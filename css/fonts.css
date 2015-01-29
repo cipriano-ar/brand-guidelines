@@ -1,0 +1,26 @@
+/* ======= FONTS ======= */
+
+@font-face {
+	font-family:hg-condensed;
+	src:url(fonts/highway-gothic/HWYGCOND.TTF);
+}
+
+@font-face {
+	font-family:hg-narrow;
+	src:url(fonts/highway-gothic/HWYGNRRW.TTF);
+}
+
+@font-face {
+	font-family:hg-gothic;
+	src:url(fonts/highway-gothic/HWYGOTH.TTF);
+}
+
+@font-face {
+	font-family:hg-wide;
+	src:url(fonts/highway-gothic/HWYGWDE.TTF);
+}
+
+@font-face {
+	font-family:cowboys;
+	src:url(fonts/cowboys/cowboys.ttf);
+}
