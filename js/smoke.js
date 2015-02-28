@@ -2,7 +2,7 @@
 var particles = [];
 
 // The amount of particles to render
-var particleCount = 30;
+var particleCount = 300;
 
 // The maximum velocity in each direction
 var maxVelocity = 2;
