@@ -2,7 +2,7 @@
 var particles = [];
 
 // The amount of particles to render
-var particleCount = 25;
+var particleCount = 35;
 
 // The maximum velocity in each direction
 var maxVelocity = 2;
@@ -25,7 +25,7 @@ imageObj.onload = function() {
 };
 
 // Once the callback is arranged then set the source of the image
-imageObj.src = "http://www.blog.jonnycornwell.com/wp-content/uploads/2012/07/Smoke10.png";
+imageObj.src = "images/smoke.png";
 
 // A function to create a particle object.
 function Particle(context) {
